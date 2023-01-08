@@ -54,3 +54,6 @@ with the same procedure followed for each person concatenate the dataframe to on
 
 For now, I choose SVM to train the model.There are multiple models that would work for the data, but only one would be the best.
 Inorder to choose it all the feasible models must be chosen and tested.
+
+*Thank you for reading!*
+
