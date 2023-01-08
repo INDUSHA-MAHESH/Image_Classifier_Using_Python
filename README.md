@@ -30,7 +30,9 @@ The augmented data is presented in the current repository, if you want to augume
 
 https://github.com/INDUSHA-MAHESH/Data_Augmentation_Using_Keras
 
-**After Data Augmentation each person had _312-318 images_**, a decent dataset indeed.
+**After Data Augmentation each person had _312-380 images_**, a decent dataset indeed.
+![image](https://user-images.githubusercontent.com/71513343/211207854-a32a5687-90c1-488a-8b15-57e9bce5d1d1.png)
+
 
 ## 3. Data Transformation
 
